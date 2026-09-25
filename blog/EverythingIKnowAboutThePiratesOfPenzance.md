@@ -149,7 +149,7 @@ There were no other similarities that I saw in other crew, pirates, police, or m
 My main source for this was: [https://oakapplepress.net/gasdisc/pirpapp.htm](https://oakapplepress.net/gasdisc/pirpapp.htm).
 I recommend checking out that article, as it presents what is probably a more rounded and less rose-tinted view of the movie than I do.
 
-Completely unrelated, but I would like to mention that Tim Curry played the Pirate King in Joseph Papp's 1982 production of *Pirates* in London, and in fact he is the one pictured on the cover of the red program: ![](http://blog.durosia.com/wp-content/uploads/2017/06/pirates-of-penzance-program-300x300.jpg)
+Completely unrelated, but I would like to mention that Tim Curry played the Pirate King in Joseph Papp's 1982 production of *Pirates* in London, and in fact he is the one pictured on the cover of the red program: <br>![](http://blog.durosia.com/wp-content/uploads/2017/06/pirates-of-penzance-program-300x300.jpg)
 
 ### At Least One Animal Harmed In The Making Of This Film
 
