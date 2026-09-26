@@ -1,0 +1,1 @@
+http-file-server --addr localhost:8090 -route /=index.html -route blog -route games -route style -route wims -route favicon.ico=favicon.ico
