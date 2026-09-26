@@ -4,7 +4,9 @@
 }
 
 .nightmode img {
-    /* The second stacked invert will end up not inverting images, which is what we want */
+    filter: invert(100%);
+}
+.nightmode canvas {
     filter: invert(100%);
 }
 
