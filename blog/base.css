@@ -1,0 +1,57 @@
+/* Night mode from https://github.com/jbt/markdown-editor/blob/master/index.css */
+.nightmode {
+  filter: invert(100%);
+}
+
+.nightmode img {
+    /* The second stacked invert will end up not inverting images, which is what we want */
+    filter: invert(100%);
+}
+
+.markdown-body.nightmode {
+    background: #282828;
+    color: #444;
+}
+
+.markdown-body.nightmode blockquote {
+  color: #9a9a9a;
+  border-left: .25rem solid #999;
+}
+
+.markdown-body.nightmode h1 {
+    color: #333;
+}
+
+body {
+  margin: 0px;
+}
+
+header .navbar {
+  margin-left: 0%;
+  margin-right: 0%;
+  width: 100%;
+  background: #212121;
+  height: 5vh;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nightmode header .navbar {
+  filter: invert(100%);
+  background: #101010;
+}
+
+header .navbar button {
+  height: 100%;
+  display: flex;
+  background: none;
+  border: none;
+  font-size: 32px;
+  cursor: pointer;
+  color: #fff;
+  gap: 5px;
+}
+
+.leftbtn {
+    margin-right: auto;
+}
