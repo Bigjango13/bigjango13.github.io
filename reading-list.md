@@ -1,0 +1,22 @@
+# My Favorite Articles/Blog Post
+
+(slightly ordered)
+
+- Lua and LLVM blog post: [Building the fastest Lua interpreter.. automatically!](https://sillycross.github.io/2022/11/22/2022-11-22/) (possibly my all-time favorite, changed how I see C and compilers)
+- Language abuse blog post: [C99 doesn't need function bodies, or 'VLAs are Turing complete'](https://lemon.rip/w/c99-vla-tricks/)
+- The infamous Ken Thompson speech: [Reflections on Trusting Trust](https://people.cs.umass.edu/~emery/classes/cmpsci691st/readings/Sec/Reflections-on-Trusting-Trust.pdf)
+- NVIDIA Research paper: [Efficient Sparse Voxel Octrees](https://research.nvidia.com/sites/default/files/pubs/2010-02_Efficient-Sparse-Voxel/laine2010i3d_paper.pdf)
+- Reverse engineering/optimization blog post: [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
+- Interpreter blog post: [(Re)writing an interpreter in Rust](https://www.dannyvankooten.com/blog/2022/rewriting-interpreter-rust/)
+- JSC blog post: [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
+- CPU vulnerability blog post: [Zenbleed](https://lock.cmpxchg8b.com/zenbleed.html)
+- CPU vulnerability page: [https://downfall.page/](https://downfall.page/)
+- Language design/memory safety blog post: [Higher RAII, and the Seven Arcane Uses of Linear Types](https://verdagon.dev/blog/higher-raii-uses-linear-types) (there's a lot more related posts on the blog, check them out if you're interested)
+- SpiderMonkey compiler design blog post: [75x faster: optimizing the Ion compiler backend](https://spidermonkey.dev/blog/2024/10/16/75x-faster-optimizing-the-ion-compiler-backend.html)
+- Open source bad actor (with unethical demo) paper: [On the Feasibility of Stealthily Introducing Vulnerabilities in Open-Source Software via Hypocrite Commits](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers%2FOpenSourceInsecurity.pdf)
+- Unicode: [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses!)](https://tonsky.me/blog/unicode/)
+- Database design: [Speeding up queries 1000x by sorting my bitmaps](https://www.ntietz.com/blog/bitmaps-speed-up-by-sorting/)
+- Language design blog post: [Why Swift’s Type Checker Is So Slow](https://danielchasehooper.com/posts/why-swift-is-slow/)
+- Rusty C23 macro abuse: [Writing C23 Macros to Feed an Addiction](https://web.archive.org/web/20250610013546/https://blog.eevans.xyz/posts/c23-macros/)
+- C extension blog post: [The lost language extensions of MetaWare's High C Compiler](https://web.archive.org/web/20240111065125/https://cohost.org/jckarter/post/2955755-the-lost-language-ex)
+- Sysadmin humor email: [500 mile email](https://web.mit.edu/jemorris/humor/500-miles)
